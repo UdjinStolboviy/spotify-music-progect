@@ -1,5 +1,5 @@
-# npm run start:dev - запуск сервера
+# npm run start:dev - старт сервера
 
-# npm run dev - запуск клиента
+# npm run dev - старт клиента
 
 https://www.youtube.com/watch?v=A0CfYSVzAZI
